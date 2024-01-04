@@ -52,3 +52,16 @@ Welcome to the TikTok Internship Roles section of the curated_internships_2024 r
 
 ### 12. Backend Engineer Intern (Cloud Infrastructure) - 2024
 - [Details](https://careers.tiktok.com/position/7270552118628780347/detail)
+
+\
+- ## Google Internship Roles
+
+### 13. Software Engineering Intern, Summer 2024
+- [Details](https://www.google.com/about/careers/applications/jobs/results/135891305994560198-software-engineering-intern-summer-2024)
+
+### 14. Software Engineering Intern, 2024
+- [Details](https://www.google.com/about/careers/applications/jobs/results/140115629668475590-software-engineering-intern-2024)
+
+### 15. Student Training in Engineering Program (STEP) Intern, 2024
+- [Details](https://www.google.com/about/careers/applications/jobs/results/79019773569966790-student-training-in-engineering-program-step-intern-2024)
+
