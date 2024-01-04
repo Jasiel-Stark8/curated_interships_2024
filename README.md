@@ -54,7 +54,7 @@ Welcome to the TikTok Internship Roles section of the curated_internships_2024 r
 - [Details](https://careers.tiktok.com/position/7270552118628780347/detail)
 
 \
-- ## Google Internship Roles
+## Google Internship Roles
 
 ### 13. Software Engineering Intern, Summer 2024
 - [Details](https://www.google.com/about/careers/applications/jobs/results/135891305994560198-software-engineering-intern-summer-2024)
@@ -66,6 +66,6 @@ Welcome to the TikTok Internship Roles section of the curated_internships_2024 r
 - [Details](https://www.google.com/about/careers/applications/jobs/results/79019773569966790-student-training-in-engineering-program-step-intern-2024)
 
 
-- ## Microsoft
+## Microsoft
 
 - [Software Engineering Global](https://jobs.careers.microsoft.com/global/en/job/1586719/Software-Engineering%3A-Internship-Opportunities%2C-Start-Date-Summer-2024)
