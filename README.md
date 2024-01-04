@@ -1,4 +1,4 @@
-# Repository Name: curated_internships_2024
+# Curated Internships 2024
 
 ## TikTok Internship Roles
 
